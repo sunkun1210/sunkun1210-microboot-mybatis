@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6899c6d4-0236-49e8-a6bc-1ef5e1ccdf9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/1908-websocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1908-websocket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/.idea/libraries/Maven__io_netty_netty_all_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Websocket/Websocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../boot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/microboot_tomcat_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/microboot_tomcat_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_druid_1_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_fastjson_1_2_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_github_kischang_fastdfs_client_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mortbay_jasper_apache_el_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_commons_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_tree_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_springloaded_1_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-advance/microboot-advance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-base/microboot-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-error/microboot-error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-interceptor/microboot-interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-thymeleaf/microboot-thymeleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-tomcat/microboot-tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot-upload/microboot-upload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microboot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/FilterChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/HTMLFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/filter/SesitiveFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/Connector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/HelloServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/ProxyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/proxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/reflect/Call.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/reflect/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/reflect/HelloServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/reflect/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/reflect/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/aio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/aio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/aio/ServerCompletionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio/ServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio2/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio2/HandlerExecutorPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio2/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/bio2/ServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/buffer/TestBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/io/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/io/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/io2/ServerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/io2/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/io2/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/nio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/nio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/socket/webSocket/WebSocketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/sort/FastSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/sort/QuickSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/thread/DirtyRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/thread/RunThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/java/com/sun/thread/VolatitleNoAtomic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/webapp/js/jquery-3.2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kun/src/main/webapp/js/websocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/FilterChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/HTMLFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/filter/SesitiveFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/Connector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/HelloServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/ProxyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/proxy/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/reflect/Call.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/reflect/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/reflect/HelloServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/reflect/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/reflect/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/aio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/aio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/aio/ServerCompletionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio/ServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio2/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio2/HandlerExecutorPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio2/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/bio2/ServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/buffer/TestBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/io/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/io2/ServerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/io2/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/io2/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/nio/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/nio/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/socket/webSocket/WebSocketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/sort/FastSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/sort/QuickSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/thread/DirtyRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/thread/RunThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/com/sun/thread/VolatitleNoAtomic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/webapp/js/jquery-3.2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/webapp/js/websocket.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/StartSpringBootMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/util/controller/MyPageHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="54" column="12" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/util/controller/MySqlUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3">
+              <caret line="447" column="7" lean-forward="true" selection-start-line="447" selection-start-column="7" selection-end-line="447" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.1.3/pagehelper-4.1.3-sources.jar!/com/github/pagehelper/SqlUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="140" column="23" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+              <folding>
+                <element signature="e#5020#5021#0" expanded="true" />
+                <element signature="e#5056#5057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>join</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/StartSpringBootMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/util/controller/MySqlUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="452" />
+    <option name="y" value="36" />
+    <option name="width" value="1000" />
+    <option name="height" value="570" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microboot-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microboot-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microboot-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microboot-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microboot-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microboot-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598188386884" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartSpringBootMain">
+    <configuration name="StartSpringBootMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mldn.microboot.StartSpringBootMain" />
+      <module name="microboot-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.mldn.microboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartSpringBootMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.mldn.microboot.StartSpringBootMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartSpringBootMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6899c6d4-0236-49e8-a6bc-1ef5e1ccdf9d" name="Default Changelist" comment="" />
+      <created>1598187321819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598187321819</updated>
+      <workItem from="1598187325028" duration="1039000" />
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1598188358974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598188358974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1039000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/数据库创建脚本.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.1.3/pagehelper-4.1.3-sources.jar!/com/github/pagehelper/SqlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="140" column="23" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+          <folding>
+            <element signature="e#5020#5021#0" expanded="true" />
+            <element signature="e#5056#5057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/util/controller/MyPageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="54" column="12" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/util/controller/MySqlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="447" column="7" lean-forward="true" selection-start-line="447" selection-start-column="7" selection-end-line="447" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/StartSpringBootMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
